@@ -1,0 +1,22 @@
+article, section, aside, f13er, header, menu, nav, figure, figcaption, hgroup, details {display: block;}
+			#tudo {background: #D3D3D3; border: 1px solid #000;  margin: 30px; width: 635px; height: 445px;}
+			#f1 {background: #A9A9A9; border: 1px solid #000; margin: 10px 10px 0; height: 61px; padding: 10px;}
+			#f2 {height: 60.333px;}
+			#f3 {text-decoration: none; outline: none; color: #000;" href="#" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#000'}
+			#f4 {	font-size: 1em; margin: 0;}
+			#f5 {position: relative; top: -56px; left: 370px;}
+			#f6 {width: 182px}
+			#f7 {margin: 10px 10px 0; padding: 10px; position: relative; left: 110px; width: 360px; top: -64px; height: 38px;}
+			#f8 {list-style-type: none; padding: 0;}
+			li {display: inline;}
+			#f9{outline: none;}
+			#f10 {background: #A9A9A9; border: 1px solid #000; margin: 10px; display: inline-flex; height: 254px; width: 593px; padding: 10px; position: relative; top: -70px}
+			article {background: #D3D3D3; border: 1px solid #000;  margin: 30px 10px; width: 233px; position: absolute; padding: 10px;}
+			#f11 {	background: #A9A9A9; border: 1px solid #000; margin: 10px;}
+			#f12 {background: #A9A9A9; border: 1px solid #000; margin: 10px;}
+			#f13 {background: #A9A9A9; border: 1px solid #000; margin: 10px; padding-bottom: 20px;}
+			#f14 {	background: #A9A9A9; border: 1px solid #000; margin: 10px;}
+			#f15 {background: #D3D3D3; border: 1px solid #000; position: relative; top: 30px; left: 124px; height: 102px; padding: 10px; margin-left: 30px}
+			h3 {background: #A9A9A9; border: 1px solid #000; margin: 10px;}
+			#f16 {background: #A9A9A9; border: 1px solid #000; margin: 10px;}
+			#f17 {background: #A9A9A9; border: 1px solid #000; margin: 0 10px 10px; padding: 10px; position: relative; top: -70px}
